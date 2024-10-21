@@ -11,6 +11,7 @@ defmodule Protohackers.Application do
       Protohackers.P00,
       Protohackers.P01,
       Protohackers.P02,
+      Protohackers.P03,
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
